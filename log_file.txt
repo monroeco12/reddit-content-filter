@@ -1,0 +1,7 @@
+[2023-06-14 16:13:20] PROGRAM STARTED          : /.../RUN.py has begun.
+[2023-06-14 16:14:51] HIDDEN KEYWORD           : " sea lion" was found in 1 post.
+[2023-06-14 16:14:51] HIDDEN KEYWORD           : "seaweed" was found in 2 posts.
+[2023-06-14 16:14:51] HIDDEN FLAIR             : "pacific/atlantic" was found in 2 posts.
+[2023-06-14 16:14:51] HIDDEN FLAIR             : "arctic/southern" was found in 1 post.
+[2023-06-14 16:14:51] HIDDEN URL               : "www.spam.com" was found in 1 post.
+[2023-06-14 16:14:51] PROGRAM COMPLETED        : /.../RUN.py has completed with an execution time of 0:01:30.607715.
