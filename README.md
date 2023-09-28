@@ -3,4 +3,4 @@ A Reddit content filtering program for mobile devices connected to a Raspberry P
 
 **Required Packages:** praw // requests
 
-**Additional Requirements:** Raspberry Pi (or another remote computer) // Siri Shortcuts
+**Additional Requirements:** Raspberry Pi (or another available computer) // Siri Shortcuts
