@@ -36,5 +36,8 @@ The program will do the following:
 6. After processing all posts, the program logs the counts of hidden posts in a log file along with the program's execution time.
 7. Finally, it archives the log file.
 
-To remotely interact with the program from an Apple device, refer to the [Siri Shortcuts Workflow.md](https://github.com/monroeco12/reddit-content-filter/blob/main/Siri%20Shortcuts%20Workflow.md) file.
+To remotely update the keywords, flairs, and URLs text files from an Apple device, refer to the [Siri Shortcuts Workflow.md](https://github.com/monroeco12/reddit-content-filter/blob/main/Siri%20Shortcuts%20Workflow.md) file. The following video demonstrates the Siri Shortcut in action:
+
+https://github.com/monroeco12/reddit-content-filter/assets/116775849/e454aa85-d1a4-4e96-ac2b-fb5de06140e3
+
 
