@@ -16,10 +16,22 @@ Before you can use this program, make sure you have the following prerequisites 
 4. **Reddit Account Credentials:** You'll need the Reddit username and password for the account that will be used to interact with Reddit.
 
 # Configuration
-Before running the program, you need to configure it by providing the necessary credentials and file paths. Here's how to do it:
+Before running the program, you need to configure it by providing the necessary credentials. Here's how to do it:
 1. Replace the placeholders in the RUN.py file with your Reddit API credentials:
    - 'client_id': Replace "ADD_CLIENT_ID_HERE" with your actual client ID.
    - 'client_secret': Replace "ADD_CLIENT_SECRET_HERE" with your actual client secret.
    - 'user_agent': Replace "ADD_USER_AGENT_HERE" with your unique user agent.
    - 'password': Replace "ADD_PASSWORD_HERE" with your Reddit account password.
    - 'username': Replace "ADD_USERNAME_HERE" with your Reddit username.
+
+# Usage
+The program can run automatically by using 'cron' or other similar software. The following 'cron' command will run the program every 20 minutes: **/20 * * * * /your/path/to/RUN.py*
+
+The program will do the following:
+1. Initialize a connection to Reddit using your credentials.
+2. Read keywords, flairs, and URLs from text files.
+3. Create a dictionary to store the counts of hidden posts based on keywords, flairs, and URLs.
+4. Iterate through your subscribed subreddits and their 'Hot' posts.
+5. For each post, it checks if it matches any of the keywords, flairs, or URLs. If it does, the post is hidden, and the program updates the count in the dictionary.
+6. After processing all posts, the program logs the counts of hidden posts in a log file along with the program's execution time.
+7. Finally, it archives the log file.
