@@ -23,7 +23,3 @@ Before running the program, you need to configure it by providing the necessary 
    - 'user_agent': Replace "ADD_USER_AGENT_HERE" with your unique user agent.
    - 'password': Replace "ADD_PASSWORD_HERE" with your Reddit account password.
    - 'username': Replace "ADD_USERNAME_HERE" with your Reddit username.
-2. Set the file paths for the text files containing keywords, flairs, and URLs:
-   - 'reddit_keywords_file_path': Replace with the path to your keywords file.
-   - 'reddit_flairs_file_path': Replace with the path to your flairs file.
-   - 'reddit_urls_file_path': Replace with the path to your URLs file.
