@@ -35,3 +35,6 @@ The program will do the following:
 5. For each post, it checks if it matches any of the keywords, flairs, or URLs. If it does, the post is hidden, and the program updates the count in the dictionary.
 6. After processing all posts, the program logs the counts of hidden posts in a log file along with the program's execution time.
 7. Finally, it archives the log file.
+
+To remotely interact with the program from an Apple device, refer to the [a relative link](Siri Shortcuts Workflow.md) file.
+
