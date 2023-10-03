@@ -41,7 +41,7 @@ To remotely update the keywords, flairs, and URLs text files from an Apple devic
 https://github.com/monroeco12/reddit-content-filter/assets/116775849/e454aa85-d1a4-4e96-ac2b-fb5de06140e3
 
 # Logging
-The program logs its actions and the counts of hidden posts in a log file. You can find the log file in the same directory as the program. The log entries include information about hidden keywords, flairs, and URLs, as well as the program's execution time.
+The program logs its actions and the counts of hidden posts in a log file located in the **Files** directory. The log entries include information about hidden keywords, flairs, and URLs, as well as the program's execution time.
 
 # Notes
 - The program hides posts automatically, so use it responsibly and ensure that it complies with Reddit's terms of service and subreddit rules.
