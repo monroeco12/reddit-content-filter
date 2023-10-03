@@ -46,4 +46,4 @@ The program logs its actions and the counts of hidden posts in a log file locate
 # Notes
 - The program hides posts automatically, so use it responsibly and ensure that it complies with Reddit's terms of service and subreddit rules.
 - Make sure you keep your credentials and program files secure, as they contain sensitive information.
-- You can adjust the submission limit value in the **RUN.py** file to control how many posts are processed in each subreddit's 'Hot' feed.
+- You can adjust the submission limit value in the **RUN.py** file to control how many posts are processed in each subreddit's *Hot* feed.
