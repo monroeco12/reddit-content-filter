@@ -38,7 +38,7 @@ The program will do the following:
 
 To remotely update the keywords, flairs, and URLs text files from an Apple device, refer to the [Siri Shortcuts Workflow.md](https://github.com/monroeco12/reddit-content-filter/blob/main/Siri%20Shortcuts%20Workflow.md) file. The following video demonstrates the Siri Shortcut in action:
 
-https://github.com/monroeco12/reddit-content-filter/assets/116775849/653e3d2a-2255-4052-a11e-a71c05bd4556
+https://github.com/monroeco12/reddit-content-filter/assets/116775849/dc4c1f1a-fddf-4be4-81b7-cea9ef99b0e2
 
 # Logging
 The program logs its actions and the counts of hidden posts in a log file located in the **Files** directory. The log entries include information about hidden keywords, flairs, and URLs, as well as the program's execution time.
